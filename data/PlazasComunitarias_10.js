@@ -1,0 +1,11 @@
+var json_PlazasComunitarias_10 = {
+"type": "FeatureCollection",
+"name": "PlazasComunitarias_10",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "CLAVE DE O": "I-11-001-02", "NOMBRE DEL": "LABOR DE PERALTA", "CoordReg": "Centro", "CoordZn": "Abasolo", "TIPO": "INSTITUCIONAL", "SERVICIOS": "NO", "SITUACIÓN": "EN OPERACIÓN", "NOMBRE DE": "ABASOLO", "MUNICIPIO": "ABASOLO", "COMUNIDAD": "LABOR DE PERALTA", "DOMICILIO": "HIDALGO ESQ. CON MORELOS S\/N", "COLONIA": "LABOR DE PERALTA", "CP": "36986", "GEOREFENCI": "https:\/\/goo.gl\/maps\/xqBxQ61V3CKDGYM7A" }, "geometry": { "type": "Point", "coordinates": [ -101.4077155, 20.41071245 ] } },
+{ "type": "Feature", "properties": { "CLAVE DE O": "I-11-008-16", "NOMBRE DEL": "ESTACION JOAQUIN", "CoordReg": "Centro", "CoordZn": "Abasolo", "TIPO": "INSTITUCIONAL", "SERVICIOS": "NO", "SITUACIÓN": "EN OPERACIÓN", "NOMBRE DE": "ABASOLO", "MUNICIPIO": "ABASOLO", "COMUNIDAD": "ESTACION JOAQUIN", "DOMICILIO": "INSURGENTES S\/N", "COLONIA": "CENTRO", "CP": "36981", "GEOREFENCI": "https:\/\/goo.gl\/maps\/LCBQTPZZxWTdmx159" }, "geometry": { "type": "Point", "coordinates": [ -101.5204337, 20.56109482 ] } },
+{ "type": "Feature", "properties": { "CLAVE DE O": "I-11-017-03", "NOMBRE DEL": "HUANIMARO", "CoordReg": "Centro", "CoordZn": "Abasolo", "TIPO": "INSTITUCIONAL", "SERVICIOS": "NO", "SITUACIÓN": "EN OPERACIÓN", "NOMBRE DE": "ABASOLO", "MUNICIPIO": "HUANIMARO", "COMUNIDAD": "HUANIMARO", "DOMICILIO": "GLADIOLA 121", "COLONIA": "VILLA DE LAS FLORES", "CP": "36994", "GEOREFENCI": "https:\/\/goo.gl\/maps\/2kSyT17RuxsjhQaK9" }, "geometry": { "type": "Point", "coordinates": [ -101.5042204, 20.36333892 ] } },
+{ "type": "Feature", "properties": { "CLAVE DE O": "I-11-019-02", "NOMBRE DEL": "CCD FRANCISCO VENEGAS", "CoordReg": "Centro", "CoordZn": "Abasolo", "TIPO": "INSTITUCIONAL", "SERVICIOS": "NO", "SITUACIÓN": "EN OPERACIÓN", "NOMBRE DE": "ABASOLO", "MUNICIPIO": "CUERAMARO", "COMUNIDAD": "CUERAMARO", "DOMICILIO": "20 DE NOVIEMBRE 124", "COLONIA": "CENTRO", "CP": "36960", "GEOREFENCI": "https:\/\/goo.gl\/maps\/tuFWbdYp3jeFtod97" }, "geometry": { "type": "Point", "coordinates": [ -101.6709602, 20.62750226 ] } }
+]
+}
